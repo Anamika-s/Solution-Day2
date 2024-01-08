@@ -5,6 +5,7 @@ namespace Constructor_Demo
     class Student
     {
         readonly int rn;
+
         string name;
         DateTime dob;
         static string batch;
